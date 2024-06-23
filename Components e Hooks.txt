@@ -1,0 +1,49 @@
+Componentes: Funcoes que retornam JSX o App
+Para se tornar um componente tem que estar necessariamente dentro do app
+
+- VOCE DEVE EXPORTAR:
+
+const Button = () => {
+  return <button onClick={() => alert("Clicked")}>Click me</button>
+}
+
+export default Button
+
+PARA REFERENCIAR
+-
+import Button from './components/Button';
+
+function App() {
+  return (
+        <Button></Button>
+
+----------------------------------------------------------------------------
+Hooks: para funcoes e comportamentos repetidos
+tem funcoes pre determinados e customizados
+HOOKS useState
+
+- Dentro de um componente de funcao voce consegue utilizar os mecanismos dos hooks que sao funcoes
+- Deve ser usado como o primeiro parametro segue exemplo abaixo
+- Mais usados, UseState e UseEffect
+- Cria um objeto e o hook toda vez que acionado faz algum comando por exemplo add +1
+
+const Button = () => {
+  const [state, setState] = useState(0)
+  const [soma, setSoma] = useState("")
+
+ESTRURA
+Estado inicial do const -> 
+
+----------------------------------------------------------------------------
+HOOKS UseEffect
+
+- Esta atrelado a mudanca de dados
+useEffect(logger, [soma]);
+
+function logger() {
+console.log('colateral effect')
+}
+
+----------------------------------------------------------------------------
+HOOKS Personalizados
+- Criamos uma pasta hooks

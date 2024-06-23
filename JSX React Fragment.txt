@@ -1,0 +1,18 @@
+JSX
+codigo html dentro de um arquivo javascript
+o return, significa que retorna um html e esse retorno é o JSX
+
+REACT FRAGMENT
+nao pode ter 2 elementos de retorno e uma expressao JSX entao usa o <></>
+Precisa retornar 2 divs e nao quer criar uma div fora
+
+return
+<React.Fragment>
+Elementos
+</React.Fragment>
+
+ou
+
+<>
+Elementos
+</>

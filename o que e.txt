@@ -1,0 +1,17 @@
+- na documentacao oficial é uma biblioteca
+
+- web e mobile
+
+- Comecou sendo usado para criar SPAs(single page applications) todo site era renderizado nesse unico arquivo
+Nao é assim hoje
+
+- É baseado em componentes e funcoes
+
+- Disponibiliza a funcao JSX (JavaScript Syntax Extension) para misturar js e o html
+
+- Virtual DOM(Document object model) faz uma copia da DOM do html e faz uma copia em javascript para usarmos os componentes no app.js
+identifica só o elemento que precisa ser atualizado, se teve uma atualizacao em certa div ele nao vai atualizar toda a arvore, ele vai direto na div.
+Atualizar a Virtual DOM O framework então encontra as diferenças entre o Virtual DOM anterior e o atual, e só faz as alterações necessárias no DOM real.
+
+
+- Principal diferencial é a velocidade de atualizacao de elementos

@@ -1,0 +1,14 @@
+Onde vai fazer as configuracoes as instalacoe
+fontes externas
+centralizar comandos
+
+- DEPENDENCIES
+colocar instalacoes novas
+
+- SCRIPTS
+colocar instalacoes novas
+comandos npm que podem ser rodados no terminal
+
+- SCRIPTS
+colocar instalacoes novas
+comandos npm que podem ser rodados no terminal

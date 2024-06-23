@@ -1,0 +1,8 @@
+pegar no site
+https://www.npmjs.com/
+
+Rodar o comando
+npm i react-calendar
+
+ADD no package.json 
+dependencies por ultimo

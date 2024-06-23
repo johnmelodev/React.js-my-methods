@@ -1,0 +1,20 @@
+/Users/joao/Desktop/ReactBasis/john-app/public/index.html
+- Vai ser minha SPA (single page application). Vai ser o unico html o resto é componente
+
+- <div id="root"></div>
+nessa div toda a aplicacao sera renderizada dentro dessa div
+
+***********************************************************
+
+/Users/joao/Desktop/ReactBasis/john-app/src/index.js
+- onde renderiza a aplicacao o root
+
+***********************************************************
+
+/Users/joao/Desktop/ReactBasis/john-app/src/App.js
+é o html que esta sendo renderizado
+
+***********************************************************
+
+importar
+import App from './App';
