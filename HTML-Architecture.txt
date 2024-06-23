@@ -1,0 +1,107 @@
+Tags Estruturais
+
+<html>: Raiz do HTML
+<head>: Metadados
+<body>: Conteúdo
+<title>: Título do documento
+<header>: Cabeçalho
+<footer>: Rodapé
+<section>: Seção
+<article>: Artigo
+<nav>: Navegação
+
+-----------------------------------
+
+Tags de Texto
+
+<h1> a <h3>: Cabeçalhos
+<p>: Parágrafo
+<a>: Link
+<strong>: Importante
+<em>: Ênfase
+<br>: Quebra de linha
+<hr>: Linha horizontal
+
+-----------------------------------
+
+Tags de Lista
+
+<ul>: Lista não ordenada
+<ol>: Lista ordenada
+<li>: Item de lista
+<dl>: Lista de descrição
+<dt>: Termo de descrição
+<dd>: Descrição do termo
+<menu>: Menu
+<nav>: Navegação
+<div>: Divisão
+
+-----------------------------------
+
+Tags de Formulário
+
+<form>: Formulário
+<input>: Entrada
+<textarea>: Área de texto
+<button>: Botão
+<select>: Seleção
+<option>: Opção
+<label>: Rótulo
+<fieldset>: Conjunto de campos
+<legend>: Legenda
+
+-----------------------------------
+
+Tags de Imagem e Multimídia
+
+<img>: Imagem
+<audio>: Áudio
+<video>: Vídeo
+<source>: Fonte de mídia
+<track>: Trilha de texto
+<map>: Mapa de imagem
+<area>: Área de imagem
+<canvas>: Tela gráfica
+<figure>: Figura
+
+-----------------------------------
+
+Tags de Tabela
+
+<table>: Tabela
+<tr>: Linha da tabela
+<td>: Dado da tabela
+<th>: Cabeçalho da tabela
+<thead>: Cabeçalho da tabela
+<tbody>: Corpo da tabela
+<tfoot>: Rodapé da tabela
+<caption>: Legenda da tabela
+<col>: Coluna da tabela
+
+-----------------------------------
+
+Tags de Metadados
+
+<meta>: Metadados
+<link>: Link externo
+<style>: Estilo CSS
+<script>: Script JS
+<base>: URL base
+<noscript>: Sem script
+<title>: Título do documento
+<head>: Cabeçalho do documento
+<body>: Corpo do documento
+
+-----------------------------------
+
+Tags de Estilo e Script
+
+<style>: Estilo CSS
+<script>: Script JS
+<link>: Link externo
+<meta>: Metadados
+<noscript>: Sem script
+<template>: Modelo HTML
+<slot>: Slot de substituição
+<iframe>: Frame embutido
+<embed>: Conteúdo embutido

@@ -1,0 +1,27 @@
+Pastas - src/hooks/arquivo.js
+Pastas - src/components/arquivo.js (coloca o css aqui)
+OU
+Pastas - src/components-Css/arquivo.js
+
+ATOMIC DESIGN
+
+Divide a aplicacao em 5 etapas
+
+
+Atomos
+- O menor componente reutilizavel que podemos criar. exemplo icone de seta
+
+Moleculas
+- Conjunto de atomos
+- <header> uma quebra dos organismos individualmente
+
+Organismos
+- Pega as sessoes e organiza elas separadamente
+EX: <header> - <conteudo centrar> - <footer>
+
+Modelos
+- Coloca os componentes em um layout esqueleto da pagina sem conteudo
+
+
+Paginas
+- Aplicar conteudo
