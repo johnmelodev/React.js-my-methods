@@ -1,6 +1,5 @@
 import Button from "../Atoms/Button";
 
-
 const MoleculeHeader = (props) => {
   return (
     <div>
