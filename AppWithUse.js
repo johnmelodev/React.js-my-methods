@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import logo from "./logo.svg";
 import "./App.css";
 import Button from './components/props';
-import useLog from "./hooks/useLog";
+import useLog from "./theory-app/src/hooks/useLog";
 
 function App() {
   const [nome, setNome] = useState('john');

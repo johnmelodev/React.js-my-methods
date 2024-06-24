@@ -5,8 +5,8 @@ Pastas - src/components-Css/arquivo.js
 
 ATOMIC DESIGN
 
-Divide a aplicacao em 5 etapas
-
+Divide a aplicacao em 5 etapas.
+Crie 5 pastas src/components Atoms Molecules Organisms Templates Pages
 
 Atomos
 - O menor componente reutilizavel que podemos criar. exemplo icone de seta
@@ -19,9 +19,11 @@ Organismos
 - Pega as sessoes e organiza elas separadamente
 EX: <header> - <conteudo centrar> - <footer>
 
-Modelos
+Templates
 - Coloca os componentes em um layout esqueleto da pagina sem conteudo
-
 
 Paginas
 - Aplicar conteudo
+- O nosso arquivo app.js
+- Muda para home.js o nome e coloca dentro da pasta pages
+- Muda no index.js para configurar

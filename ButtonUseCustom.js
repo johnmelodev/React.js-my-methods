@@ -1,5 +1,5 @@
 import { useState } from "react"
-import useLog from "../hooks/useLog";
+import useLog from "./theory-app/src/hooks/useLog";
 
 const Button = () => {
   const [soma, setSoma] = useState(0)
