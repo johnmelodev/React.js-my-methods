@@ -1,0 +1,7 @@
+Ele retorna um outro componente e nao uma expressao JSX
+
+ele starta usando o with
+
+const withSomeLogic = (Component) =>{
+    return (props) => Component {...props}
+}
