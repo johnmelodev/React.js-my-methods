@@ -10,3 +10,4 @@ Javascript = tipagem dinamica o valor só é atribuido na execucao
 typescript = tipagem estatica, conseguimos validar antes que o codigo rode
 
 nivel de organização melhor
+

@@ -9,3 +9,17 @@ npx create-react-app john-app
 
 Dentro da pasta john-app
 npm start
+
+TYPESCRIPT
+
+INSTALAR
+NVM (Node Version Manager) maneira facil e rapida para transitar entre versoes do node OU SITE
+TESTAT VERSAO = node -v
+
+
+CRA = create
+Dentro da pasta
+npx create-react-app my-app --template typescript
+
+Dentro da pasta john-app
+npm start
